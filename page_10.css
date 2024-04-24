@@ -1,0 +1,65 @@
+body{
+    background: radial-gradient(circle at 24.1% 68.8%, rgb(217, 213, 213) 0%, rgb(85, 79, 79) 99.4%);
+}
+
+#mo{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#ko{
+    margin-left: 30px;
+    margin-top: 45px;
+}
+
+
+#H1{
+    padding-left: 70px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+#xo{
+    padding-left: 80px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+#bbo{
+    padding-left: 250px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+#bo{
+    margin-left: 500px;
+    margin-top: -130px;
+}
+#bboo{
+    padding-left: 50px;
+    padding-top: 30px;
+    border-radius: 10px;
+}
+/* #noo{
+    border: solid black;
+    border-width: 1px;
+    padding-top: 50px;
+    border-radius: 50px;
+} */
+/* #heet1{
+    margin-left: 650px;
+    padding-top: 30px;
+    border-radius: 8px;
+} */
+.B1{
+    background-color:radial-gradient(circle at 24.1% 68.8%, rgb(217, 213, 213) 0%, rgb(85, 79, 79) 99.4%) ;
+    margin-left: 650px;
+    font-size: 30px;
+    border: 0cap;
+    margin-bottom: 80px;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+#b1{
+text-decoration: none;
+border: none;
+color: black;
+}

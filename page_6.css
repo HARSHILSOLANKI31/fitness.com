@@ -1,0 +1,25 @@
+.image{
+   
+    background-image: url(455e99538476aff51f7400e61f9e3f95.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 1000px;
+    width: 100%;
+    opacity: 0.2;
+}
+#ko{
+   margin-top: -920px;
+}
+#jo{
+    margin-top: 200px;
+}
+.D1{
+    margin-top: 220px;
+    border: white;
+    background-color: white;
+    margin-left: 1400px;
+}
+#d1{
+    text-decoration: none;
+    font-size: 30px;
+}
